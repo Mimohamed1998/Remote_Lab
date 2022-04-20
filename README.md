@@ -16,7 +16,7 @@ So lets start the ESP 32 based remote lab demonstration.
 2. Circuit 2 will be connected to GPIO2
 3. Current Sensor 1 will connected to ADC14
 4. Voltage 1 will be connected to ADC15
-5. Current Sensor 1 will connected to ADC16
-6. Voltage 1 will be connected to ADC17
+5. Current Sensor 2 will connected to ADC16
+6. Voltage 2 will be connected to ADC17
 
 
